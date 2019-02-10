@@ -1,22 +1,11 @@
 # DigitalNotebook
-Repo from DLN workshop
-
-# Header
+This is a Repo from DLN workshop
 
 
-## Second Header
+# Link some of the files here: name in square brackets and  link in normal brackets
 
+[notes on text and stuff](Text_Stuff.md)
 
-### Third Header
+[notes on lists and bullets](Lists_and_bullets.md)
 
-
-###### Sixth Header
-
-Type lots of - (minus) to add a line
-
------------------------------
-
-
-Another way is to type lots of _ (Underscores)
-
-______________________________
+[notes on tables](Tables.md)
